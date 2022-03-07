@@ -1,5 +1,5 @@
 # smux
-Smux is an Linux distribution based on Voidlinux, developed specifically for ARM based devices.
+Smux is a Linux distribution based on Voidlinux, developed specifically for ARM based devices.
 
 **[ALL COMING SOON]**
 
