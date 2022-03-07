@@ -7,7 +7,7 @@ Smux is a Linux distribution based on Voidlinux, developed specifically for ARM 
 - Scripts to aid/automate the installation process
 - Various pre-installed & preconfigured packages, including:
 
-XFCE4 (stylized)
+XFCE4 (stylized with the Dracula theme by default)
 
 OpenSSH
 
